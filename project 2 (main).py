@@ -10,7 +10,7 @@ import plotly.graph_objects as go
 #sql connection
 mydb = psycopg2.connect(host = "localhost",
                         user = "postgres",
-                        password = "vigneshd",
+                        password = "xxxxxx",
                         database = "phonepe_data",
                         port = "5432"
                         )
