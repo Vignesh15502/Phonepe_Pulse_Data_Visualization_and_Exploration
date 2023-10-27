@@ -19,6 +19,8 @@ Fetching data from the database to dynamically update the dashboard.
 
 NAME : VIGNESH P
 
+LinkedIn: https://www.linkedin.com/in/vignesh15502/
+
 BATCH: DT12
 
 DOMAIN : DATA SCIENCE
