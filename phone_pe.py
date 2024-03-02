@@ -337,7 +337,7 @@ def top_user_plot_2(df,state):
     tuysg.reset_index(inplace= True)
 
     fig_top_plot_1= px.bar(tuys, x= "Quarter", y= "RegisteredUser",barmode= "group",
-                           width=1000, height= 800,color= "Pincodes",hover_data="Pincodes",
+                           width=1000, height= 800,color= "RegisteredUser",hover_data="Pincodes",
                             color_continuous_scale= px.colors.sequential.Magenta)
     st.plotly_chart(fig_top_plot_1)
 
